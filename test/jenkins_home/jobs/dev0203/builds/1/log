@@ -1,0 +1,25 @@
+Started by user [8mha:////4AjnedyGuKQRSipAxSNUt7z35kIshKFWWrWashIqIw7wAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/dev0203
+The recommended git tool is: NONE
+using credential github-credentials
+Cloning the remote Git repository
+Cloning repository https://github.com/chenyufan0201/nginx-web
+ > git init /var/jenkins_home/workspace/dev0203 # timeout=10
+Fetching upstream changes from https://github.com/chenyufan0201/nginx-web
+ > git --version # timeout=10
+ > git --version # 'git version 2.39.5'
+using GIT_ASKPASS to set credentials GitHub access token
+ > git fetch --tags --force --progress -- https://github.com/chenyufan0201/nginx-web +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/chenyufan0201/nginx-web # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/dev^{commit} # timeout=10
+Checking out Revision 56d8e632d1e0655e8180897e27d5ced7db70a12a (refs/remotes/origin/dev)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 56d8e632d1e0655e8180897e27d5ced7db70a12a # timeout=10
+Commit message: "dev1"
+First time build. Skipping changelog.
+[dev0203] $ /bin/sh -xe /tmp/jenkins9038931128783806574.sh
++ scp /var/jenkins_home/workspace/dev0203/test-website/index.html chen@172.26.199.206:/mnt/c/Users/cheny/Downloads/cmder/test/test-website
+Finished: SUCCESS

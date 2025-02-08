@@ -1,0 +1,61 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-01-16 09:48:40.317 UTC</timestamp>
+  <md5sum>a6349e99f614e2171eb312609b0502fa</md5sum>
+  <fileName>Credential id=github-credentials name=chenyufan0201/****** (GitHub access token)</fileName>
+  <usages>
+    <entry>
+      <string>0105</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>main123</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>0132</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>cicd</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>dev0203</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>main</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>20250121</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>20250117</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>1221</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>stage</string>
+      <ranges>1-2</ranges>
+    </entry>
+    <entry>
+      <string>test</string>
+      <ranges>1-6</ranges>
+    </entry>
+    <entry>
+      <string>main latest</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>main0203</string>
+      <ranges>1-5</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
